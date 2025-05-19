@@ -12,8 +12,9 @@
   <a href="https://www.instagram.com/tu_usuario"><img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
+<img align="right" width="250" alt="Funny Android" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWNlNjJuanFpNXpoaWF1cGxtYXJ6dDR1enJtN2VqMzFnZHRsNXlkNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TYsjk8wDWiBWYqDHhK/giphy.gif" />
 
-## 📖 About me
+### 📖 About me 
 - 🎓 Computer Science student.
 - 📱 Android Developer experienced with XML and Jetpack Compose. 
 - 🗃️ Solid knowledge of SQL and local databases.  
