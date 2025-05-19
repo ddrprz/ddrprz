@@ -14,11 +14,13 @@
 
 
 ## 📖 About me
-- 🎓 Computer Science student  
-- 📱 Android Developer experienced with XML and Jetpack Compose  
-- 🗃️ Solid knowledge of SQL and local databases  
-- 💻 Passionate about Linux, clean code, and continuous learning  
-- 🚀 Looking for opportunities to grow as a mobile developer
+- 🎓 Computer Science student.
+- 📱 Android Developer experienced with XML and Jetpack Compose. 
+- 🗃️ Solid knowledge of SQL and local databases.  
+- 💻 Passionate about Linux, clean code, and continuous learning.
+- 🎥 I create programming content on my social media to share what I learn and help others.
+- 🚀 Looking for opportunities to grow as a mobile developer.
+- 📬 Reach out to me at: [didierpb@outlook.com](didierpb@outlook.com).
 
 ## 🛠️ Tech Stack
 
