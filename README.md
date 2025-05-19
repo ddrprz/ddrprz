@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm  Ferdi Özer!</h1>
+<h1 align="center">Hi 👋, I'm Didier Pérez!</h1>
 <br>
 
 <!--
