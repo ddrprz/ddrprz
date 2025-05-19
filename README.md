@@ -7,7 +7,7 @@
   <!-- GitHub followers -->
   <a href="https://github.com/ddrprz"><img alt="GitHub followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/ddrprz?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
   <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/tu-usuario-linkedin"><img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="https://www.linkedin.com/in/didierpb"><img alt="LinkedIn" title="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
   <!-- Instagram -->
   <a href="https://www.instagram.com/tu_usuario"><img alt="Instagram" title="Follow me on Instagram" src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
@@ -20,9 +20,9 @@
 - 💻 Passionate about Linux, clean code, and continuous learning  
 - 🚀 Looking for opportunities to grow as a mobile developer
 
-## 💼 Tech Stack
+## 🛠️ Tech Stack
 
-### 🔤 Languages & Frameworks
+### - Languages & Frameworks
 <span> 
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
@@ -31,7 +31,7 @@
   <img src="https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white">
 </span>
 
-### 🛠️ Other Tools & Technologies
+### - Other Tools & Technologies
 <span>
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
